@@ -1,10 +1,410 @@
 [
   {
+    "name": "Alfa Slab One",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Alfa_Slab_One.zip"
+  },
+  {
+    "name": "Anek Telugu",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Anek_Telugu.zip"
+  },
+  {
+    "name": "Anton",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Anton.zip"
+  },
+  {
+    "name": "Archivo",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Archivo.zip"
+  },
+  {
+    "name": "Archivo Black",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Archivo_Black.zip"
+  },
+  {
+    "name": "Arimo",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Arimo.zip"
+  },
+  {
+    "name": "Arvo",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Arvo.zip"
+  },
+  {
+    "name": "Assistant",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Assistant.zip"
+  },
+  {
+    "name": "Barlow",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Barlow.zip"
+  },
+  {
+    "name": "Barlow Condensed",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Barlow_Condensed.zip"
+  },
+  {
+    "name": "Bebas Neue",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Bebas_Neue.zip"
+  },
+  {
+    "name": "Bitter",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Bitter.zip"
+  },
+  {
+    "name": "Bricolage Grotesque",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Bricolage_Grotesque.zip"
+  },
+  {
+    "name": "Bungee",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Bungee.zip"
+  },
+  {
+    "name": "Cabin",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Cabin.zip"
+  },
+  {
+    "name": "Cairo",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Cairo.zip"
+  },
+  {
+    "name": "Changa One",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Changa_One.zip"
+  },
+  {
+    "name": "Cormorant Garamond",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Cormorant_Garamond.zip"
+  },
+  {
+    "name": "DM Sans",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/DM_Sans.zip"
+  },
+  {
+    "name": "DM Serif Display",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/DM_Serif_Display.zip"
+  },
+  {
+    "name": "Dancing Script",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Dancing_Script.zip"
+  },
+  {
+    "name": "Dosis",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Dosis.zip"
+  },
+  {
+    "name": "EB Garamond",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/EB_Garamond.zip"
+  },
+  {
+    "name": "Exo 2",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Exo_2.zip"
+  },
+  {
+    "name": "Figtree",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Figtree.zip"
+  },
+  {
+    "name": "Fira Sans",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Fira_Sans.zip"
+  },
+  {
+    "name": "Fjalla One",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Fjalla_One.zip"
+  },
+  {
     "name": "Gemunu Libre",
     "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Gemunu_Libre.zip"
   },
   {
+    "name": "Google Sans",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Google_Sans.zip"
+  },
+  {
+    "name": "Heebo",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Heebo.zip"
+  },
+  {
+    "name": "Hind",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Hind.zip"
+  },
+  {
+    "name": "IBM Plex Sans",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/IBM_Plex_Sans.zip"
+  },
+  {
+    "name": "Inconsolata",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Inconsolata.zip"
+  },
+  {
+    "name": "Instrument Serif",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Instrument_Serif.zip"
+  },
+  {
+    "name": "Inter",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Inter.zip"
+  },
+  {
+    "name": "Inter Tight",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Inter_Tight.zip"
+  },
+  {
+    "name": "Josefin Sans",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Josefin_Sans.zip"
+  },
+  {
+    "name": "Jost",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Jost.zip"
+  },
+  {
+    "name": "Kanit",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Kanit.zip"
+  },
+  {
+    "name": "Karla",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Karla.zip"
+  },
+  {
+    "name": "Lato",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Lato.zip"
+  },
+  {
+    "name": "Lexend",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Lexend.zip"
+  },
+  {
+    "name": "Libre Baskerville",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Libre_Baskerville.zip"
+  },
+  {
+    "name": "Libre Franklin",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Libre_Franklin.zip"
+  },
+  {
+    "name": "Lobster Two",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Lobster_Two.zip"
+  },
+  {
+    "name": "Lora",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Lora.zip"
+  },
+  {
+    "name": "M PLUS Rounded 1c",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/M_PLUS_Rounded_1c.zip"
+  },
+  {
+    "name": "Manrope",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Manrope.zip"
+  },
+  {
+    "name": "Material Icons",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Material_Icons.zip"
+  },
+  {
+    "name": "Material Icons Outlined",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Material_Icons_Outlined.zip"
+  },
+  {
+    "name": "Material Icons Round",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Material_Icons_Round.zip"
+  },
+  {
+    "name": "Material Symbols Outlined",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Material_Symbols_Outlined.zip"
+  },
+  {
+    "name": "Material Symbols Rounded",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Material_Symbols_Rounded.zip"
+  },
+  {
+    "name": "Merriweather",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Merriweather.zip"
+  },
+  {
+    "name": "Montserrat",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Montserrat.zip"
+  },
+  {
+    "name": "Mulish",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Mulish.zip"
+  },
+  {
+    "name": "Nanum Gothic",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Nanum_Gothic.zip"
+  },
+  {
+    "name": "Noto Sans",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Noto_Sans.zip"
+  },
+  {
+    "name": "Noto Sans JP",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Noto_Sans_JP.zip"
+  },
+  {
+    "name": "Noto Sans KR",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Noto_Sans_KR.zip"
+  },
+  {
+    "name": "Noto Sans SC",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Noto_Sans_SC.zip"
+  },
+  {
+    "name": "Noto Sans TC",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Noto_Sans_TC.zip"
+  },
+  {
+    "name": "Noto Sans Telugu",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Noto_Sans_Telugu.zip"
+  },
+  {
+    "name": "Noto Serif",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Noto_Serif.zip"
+  },
+  {
+    "name": "Noto Serif JP",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Noto_Serif_JP.zip"
+  },
+  {
+    "name": "Nunito",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Nunito.zip"
+  },
+  {
+    "name": "Nunito Sans",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Nunito_Sans.zip"
+  },
+  {
+    "name": "Open Sans",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Open_Sans.zip"
+  },
+  {
+    "name": "Oswald",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Oswald.zip"
+  },
+  {
+    "name": "Outfit",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Outfit.zip"
+  },
+  {
+    "name": "Oxygen",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Oxygen.zip"
+  },
+  {
+    "name": "PT Sans",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/PT_Sans.zip"
+  },
+  {
+    "name": "PT Serif",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/PT_Serif.zip"
+  },
+  {
+    "name": "Pacifico",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Pacifico.zip"
+  },
+  {
+    "name": "Playfair Display",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Playfair_Display.zip"
+  },
+  {
+    "name": "Plus Jakarta Sans",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Plus_Jakarta_Sans.zip"
+  },
+  {
+    "name": "Poppins",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Poppins.zip"
+  },
+  {
+    "name": "Prompt",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Prompt.zip"
+  },
+  {
+    "name": "Public Sans",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Public_Sans.zip"
+  },
+  {
+    "name": "Quicksand",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Quicksand.zip"
+  },
+  {
+    "name": "Raleway",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Raleway.zip"
+  },
+  {
+    "name": "Ramabhadra",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Ramabhadra.zip"
+  },
+  {
+    "name": "Red Hat Display",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Red_Hat_Display.zip"
+  },
+  {
+    "name": "Roboto",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Roboto.zip"
+  },
+  {
+    "name": "Roboto Condensed",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Roboto_Condensed.zip"
+  },
+  {
+    "name": "Roboto Flex",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Roboto_Flex.zip"
+  },
+  {
+    "name": "Roboto Mono",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Roboto_Mono.zip"
+  },
+  {
+    "name": "Roboto Slab",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Roboto_Slab.zip"
+  },
+  {
+    "name": "Rubik",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Rubik.zip"
+  },
+  {
+    "name": "Saira",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Saira.zip"
+  },
+  {
+    "name": "Schibsted Grotesk",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Schibsted_Grotesk.zip"
+  },
+  {
+    "name": "Share Tech",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Share_Tech.zip"
+  },
+  {
+    "name": "Slabo 27px",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Slabo_27px.zip"
+  },
+  {
+    "name": "Smooch Sans",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Smooch_Sans.zip"
+  },
+  {
+    "name": "Sora",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Sora.zip"
+  },
+  {
+    "name": "Source Code Pro",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Source_Code_Pro.zip"
+  },
+  {
+    "name": "Source Sans 3",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Source_Sans_3.zip"
+  },
+  {
+    "name": "Space Grotesk",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Space_Grotesk.zip"
+  },
+  {
     "name": "Teko",
     "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Teko.zip"
+  },
+  {
+    "name": "Titillium Web",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Titillium_Web.zip"
+  },
+  {
+    "name": "Ubuntu",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Ubuntu.zip"
+  },
+  {
+    "name": "Work Sans",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Work_Sans.zip"
   }
 ]
