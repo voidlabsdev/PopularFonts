@@ -406,5 +406,8 @@
   {
     "name": "Work Sans",
     "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Work_Sans.zip"
+  },
+  { "name": "Merriweather",
+    "url": "https://raw.githubusercontent.com/voidlabsdev/PopularFonts/main/fonts/Merriweather.zip"
   }
 ]
